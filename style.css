@@ -2,3 +2,10 @@ body
 {
     background-color: #881111;
 }
+div
+{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
